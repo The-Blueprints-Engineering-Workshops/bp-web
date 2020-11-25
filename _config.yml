@@ -1,0 +1,9 @@
+# Site setting
+title: The Blueprints
+description: "A series of hands-on skill-building workshops offered by the Engineering Department at Sonoma State University"
+author:
+  name: Mohamed Salem
+  email: mohamed.salem@sonoma.edu
+
+# Build settings
+remote_theme: jekyll/minima
